@@ -40,9 +40,9 @@
     ]
   },
   "dependencies": {
-    "bplist-creator": "0.0.7",
-    "bplist-parser": "0.1.1",
-    "plist": "^3.0.1"
+    "bplist-creator": "telime/node-bplist-creator#master",
+    "bplist-parser": "telime/node-bplist-parser#master",
+    "plist": "telime/plist.js#master"
   },
   "devDependencies": {
     "eslint": "^5.9.0",
